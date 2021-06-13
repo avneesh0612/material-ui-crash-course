@@ -1,0 +1,11 @@
+.modal {
+  background: white;
+  margin: 0.6vw;
+  border-radius: 10px;
+  padding: 2vw;
+}
+
+.button {
+  background-color: violet !important;
+  color: white !important;
+}
